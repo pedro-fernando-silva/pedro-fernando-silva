@@ -1,5 +1,8 @@
-## Hi there 👋
+# 👨🏻‍💻 Pedro Fernando
 
+**`Analista de Dados`** **`Cientista de Dados`** **`Programador Estatístico`**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <!--
 **pedro-fernando-silva/pedro-fernando-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
